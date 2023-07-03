@@ -9,3 +9,6 @@ A collection of references, tools, and scripts and general knowledge to help wit
 - [docker](docker/docker.md)
 - [elasticsearch](elasticsearch/elasticsearch.md)
 - [python / pip](python/pip.md)
+- [github / shortcuts](github/github.md)
+- [aws / cli](aws/cli.md)
+- [zshrc](zshrc/zshrc.md)
