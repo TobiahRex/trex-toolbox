@@ -1,4 +1,4 @@
-# Github
+# [Home](../README.md) > Github
 Shortcuts for Github
 
 1. Make a quick commit

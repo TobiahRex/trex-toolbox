@@ -1,4 +1,4 @@
-# AWS Cli
+# [Home](../README.md) > AWS Cli
 
 1. Setting up Profiles
     1. Create a new profile

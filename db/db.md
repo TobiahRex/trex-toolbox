@@ -1,5 +1,4 @@
-# Postgress & SQL
-[Home](../README.md)
+# [Home](../README.md) > Postgress & SQL
 
 1. Open the Server Dashboard
     ```bash

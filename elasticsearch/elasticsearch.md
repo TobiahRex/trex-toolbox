@@ -1,6 +1,4 @@
-# ElasticSearch
-[Home](../README.md)
-
+# [Home](../README.md) > ElasticSearch
 Here are the explanations for the concepts related to Elasticsearch and the updated commands:
 
 - *Nodes*: Nodes are individual servers within an Elasticsearch cluster. The default cluster name is "elasticsearch".

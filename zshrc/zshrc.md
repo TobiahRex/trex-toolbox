@@ -1,5 +1,6 @@
-# ZSH
+# [Home](../README.md) > ZSH
 Custom tools for improving the ZSH experience.
+
 
 1. Navigation shortcuts
   ```bash

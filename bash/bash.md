@@ -1,5 +1,4 @@
-# Bash
-[Home](../README.md)
+# [Home](../README.md) > Bash
 
 
 1. Open screen documentation
